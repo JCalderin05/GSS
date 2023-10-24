@@ -1,6 +1,6 @@
 ---
 title: "General Social Survey"
-author: "Your Name"
+author: "Joel Calderin"
 date: "Year 2020"
 output: 
   html_document:
